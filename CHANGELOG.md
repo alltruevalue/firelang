@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.2 - Documentation Improvements & More Examples
+- 📚 Updated documentation for better clarity
+- 🛠 Provided additional examples for usage and setup
+
 ## 1.0.1 - Documentation and License Fixes
 - 📝 Fixed documentation for better clarity
 - 📜 Ensured proper MIT license recognition

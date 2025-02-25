@@ -12,9 +12,10 @@ my_flutter_project/
 │   ├── parm_example/
 │   │   ├── en.json (or default.json)  <-- Required
 │   │   ├── es.json  <-- Optional
+│   ├── lang.dart  <-- 🔥 Auto-generated localization class (Move this to `lib/`)
 │── lib/
 │   ├── main.dart
-│   ├── lang.dart  <-- 🔥 Auto-generated localization class
+│   ├── lang.dart  <-- 🔥 Move the generated file here
 │── pubspec.yaml
 ```
 

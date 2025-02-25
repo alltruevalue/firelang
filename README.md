@@ -24,7 +24,7 @@
 Once the package is **published**, you can add it to your `pubspec.yaml`:
 ```yaml
 dev_dependencies:
-  firelang: ^1.0.0
+  firelang: ^1.0.2
 ```
 Then run:
 ```bash

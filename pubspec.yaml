@@ -1,6 +1,14 @@
 name: firelang
-description: "Automate multi-language support for Firebase Remote Config in Flutter"
-version: 1.0.0
+description: "Automates Firebase Remote Config multi-language support in Flutter apps."
+repository: https://github.com/alltruevalue/firelang
+issue_tracker: https://github.com/alltruevalue/firelang/issues
+license: MIT
+topics:
+  - firebase
+  - flutter
+  - localization
+  - remote-config
+version: 1.0.1
 homepage: https://github.com/alltruevalue/firelang
 environment:
   sdk: ^3.7.0
